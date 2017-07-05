@@ -23,6 +23,20 @@ $('#handler').jmspinner();
 2. Big
 3. Default (You have to leave argument variable empty e.g $('#handler').jmspinner(argument)).
 
+    <script type="text/javascript">	
+		$(function(){
+		
+			$('#handler').jmspinner();
+			$('#handler_small').jmspinner('small');
+			$('#handler_big').jmspinner('big');
+
+		
+
+			
+		})
+	</script>
+To remove Jm.Spinner just add false. Like this $('#handler_big').jmspinner(false);
+
 
 
 
