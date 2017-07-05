@@ -21,10 +21,9 @@ $('#handler').jmspinner();
 
 1. Small
 2. Big
-3. Default (You have to leave AQUEMENT empty e.g $('#handler').jmspinner()).
+3. Default (You have to leave argument variable empty e.g $('#handler').jmspinner(argument)).
 
 
-### Header 3
 
 
 ```
