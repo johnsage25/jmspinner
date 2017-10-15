@@ -28,7 +28,7 @@ $('#handler').jmspinner();
 		
 			$('#handler').jmspinner();
 			$('#handler_small').jmspinner('small');
-			$('#handler_big').jmspinner('big');
+			$('#handler_big').jmspinner('large');
 
 		
 
