@@ -20,8 +20,8 @@ $('#handler').jmspinner();
 #Options
 
 1. Small
-2. Big
-3. Default (You have to leave argument variable empty e.g $('#handler').jmspinner(argument)).
+2. large
+3. Default (You have to leave argument variable empty e.g $('#handler').jmspinner()).
 
     <script type="text/javascript">	
 		$(function(){
